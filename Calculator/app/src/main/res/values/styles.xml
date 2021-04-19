@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="TextGeneral">
+        <item name="android:textColor">@android:color/black</item>
+        <item name="fontFamily">sans-serif-condensed-medium</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Button">
+        <item name="android:textSize">@dimen/text_size_xnormal</item>
+        <item name="android:textColor">@android:color/black</item>
+        <item name="android:layout_height">@dimen/height_button</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_marginHorizontal">@dimen/space_xsmall</item>
+        <item name="backgroundTint">@color/color_wild_sand</item>
+    </style>
+
+    <style name="ButtonCharacter">
+        <item name="android:textSize">@dimen/text_size_xnormal</item>
+        <item name="android:layout_height">@dimen/height_button</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:textColor">@android:color/white</item>
+        <item name="android:layout_marginHorizontal">@dimen/space_xsmall</item>
+        <item name="backgroundTint">@color/colorAccent</item>
+    </style>
+
+</resources>

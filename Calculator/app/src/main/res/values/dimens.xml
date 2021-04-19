@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="match_constrain">0dp</dimen>
+
+    <dimen name="text_size_small">14sp</dimen>
+    <dimen name="text_size_normal">18sp</dimen>
+    <dimen name="text_size_xnormal">20sp</dimen>
+    <dimen name="text_size_large">24sp</dimen>
+    <dimen name="text_size_xlarge">36sp</dimen>
+    <dimen name="text_size_special">64sp</dimen>
+
+    <dimen name="space_xsmall">5dp</dimen>
+    <dimen name="space_small">10dp</dimen>
+    <dimen name="space_medium">20dp</dimen>
+    <dimen name="space_large">30dp</dimen>
+
+    <dimen name="radius_5">5dp</dimen>
+    
+    <dimen name="height_button">80sp</dimen>
+
+    <dimen name="dp_0">0dp</dimen>
+</resources>
